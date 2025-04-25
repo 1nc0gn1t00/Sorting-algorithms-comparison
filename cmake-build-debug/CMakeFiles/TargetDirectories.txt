@@ -1,0 +1,3 @@
+C:/Users/PawełŁachut(281237)/Desktop/aizo/projekt_aizo/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/PawełŁachut(281237)/Desktop/aizo/projekt_aizo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PawełŁachut(281237)/Desktop/aizo/projekt_aizo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
