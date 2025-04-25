@@ -1,1 +1,1 @@
-# Badanie-efektywno-ci-wybranych-algorytm-w-sortowanie-ze-wzgl-du-na-z-o-ono-obliczeniow-
+Badanie efektywności wybranych algorytmów sortowania ze względu na złożoność obliczeniową
